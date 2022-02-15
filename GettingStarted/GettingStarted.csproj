@@ -14,6 +14,6 @@
 		<Compile Include="FirstXpo_DefineDataModel.cs" Visible="False" />
 		<Compile Include="CodeRushTemplatesIntro.cs" Visible="False" />
 		<Compile Include="Program.cs" Visible="False" />
+		<Compile Include="StartHere.cs" />
 	</ItemGroup>
-
 </Project>

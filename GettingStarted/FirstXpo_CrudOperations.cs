@@ -1,6 +1,4 @@
-﻿using DevExpress.Xpo;
-
-namespace DevExpressXpoSample
+﻿namespace DevExpressXpoSample
 {
 	//`+CRUD Operations
 	public static class CrudOperations
