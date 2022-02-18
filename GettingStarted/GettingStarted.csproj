@@ -12,7 +12,7 @@
 		<Compile Include="FirstXpo_DatabaseProvider.cs" Visible="False" />
 		<Compile Include="FirstXpo_DevExpressNuGet.cs" Visible="False" />
 		<Compile Include="FirstXpo_DefineDataModel.cs" Visible="False" />
-		<Compile Include="CodeRushTemplatesIntro.cs" Visible="False" />
+		<None Include="CodeRushTemplatesIntro.cs" Visible="False" />
 		<Compile Include="Program.cs" Visible="False" />
 		<Compile Include="StartHere.cs" />
 	</ItemGroup>
