@@ -12,8 +12,8 @@
 	Just follow the steps below.
  */
 
-//! If a step feels messed up (or if you want to see a step again), Undo (Ctrl+Z) 
-//! will take you back through changes made (in each file).
+//! If you want to go back and try a step again, Undo (Ctrl+Z) will take you
+//! back through changes made in each file.
 
 namespace DevExpressXpoSample
 {
