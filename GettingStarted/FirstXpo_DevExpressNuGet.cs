@@ -1,6 +1,6 @@
 ﻿namespace GettingStarted
 {
-	//`+Installing the DevExpress.Xpo﻿ NuGet Package
+	//`+Installing the DevExpress.Xpo NuGet Package
 	/* 
 		![](BtnNuGetPackageManager;vscommand:Project.ManageNuGetPackages;;0.01200,0.01200) << Bring up the NuGet Package Manager...
 
@@ -15,7 +15,7 @@
 		Click the Browse tab:
 		![](ClickBrowse)
 	  
-		Search for "DevExpress.Xpo"﻿. ![](Copy;crcommand:CopyToClipboard:"DevExpress.Xpo";;0.01200,0.01200)
+		Search for "DevExpress.Xpo". ![](Copy;crcommand:CopyToClipboard:"DevExpress.Xpo";;0.01200,0.01200)
 
 		
 		Select the DevExpress.Xpo package, 
